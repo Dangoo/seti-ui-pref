@@ -6,6 +6,12 @@ Cause I like this theme so mutch, I even colorized my terminal to look like Seti
 Follow these steps to get a whole Seti development look:
 
 ## Editor Theme
+
+1. Open ~/.bash_profile or create it otherwise
+2. Copy content from [.bash_profile](https://github.com/Dangoo/seti-ui-pref/blob/master/.bash_profile)
+3. Save
+4. Restart terminal
+
 ### Sublime
 
 1. Open Sublime Text
@@ -25,7 +31,7 @@ TBA
 1. Checkout `seti.terminal`
 2. Go to `Terminal` > `Preferences`, select tab `Profiles`
 3. Click the little gear and select `Import …`
-4. Navigate to `seti.terminal` and hit `Open`
+4. Navigate to [`seti.terminal`](https://github.com/Dangoo/seti-ui-pref/blob/master/.bash_profile) and hit `Open`
 5. Done
 
 
