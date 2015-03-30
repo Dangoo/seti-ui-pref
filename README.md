@@ -23,7 +23,12 @@ Follow these steps to get a whole Seti development look:
 
 
 ### Atom
-TBA
+
+1. Open Atom
+2. Go to `Preferences` > `Package Control`
+3. Search for `Seti UI`
+4. Hit `Install`
+5. Done
 
 ## Terminal Theme
 ### Terminal.app
