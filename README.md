@@ -5,6 +5,8 @@ Seti is a popular syntax highlighting kit by [jesseweed](https://github.com/jess
 Cause I like this theme so mutch, I even colorized my terminal to look like Seti.
 Follow these steps to get a whole Seti development look:
 
+![Seti Theme for All!](https://cloud.githubusercontent.com/assets/1252204/6903017/ce9e3fce-d717-11e4-9a55-ca74d1876844.png)
+
 ## Editor Theme
 
 1. Open ~/.bash_profile or create it otherwise
