@@ -9,22 +9,25 @@ Follow these steps to get a whole Seti development look:
 
 ## Editor Theme
 
-1. Open ~/.bash_profile or create it otherwise
-2. Copy content from [.bash_profile](https://github.com/Dangoo/seti-ui-pref/blob/master/.bash_profile)
-3. Save
-4. Restart terminal
+### Visual Studio Code (by [TsumiNa](https://marketplace.visualstudio.com/items?itemName=TsumiNa.Seti-theme))
 
-### Sublime
+1. Open VSCode
+2. Launch VS Code Quick Open (⌘+P)
+3. Paste the following command, and press enter: `ext install Seti-theme`
+4. If it doesn't activate itself go to `Code` > `Preferences` > `Color Scheme` and select Seti
+5. Done
+
+### Sublime (by [jesseweed](https://packagecontrol.io/packages/Seti_UI))
 
 1. Open Sublime Text
 2. If you haven't allready installed [Package Control](https://packagecontrol.io/installation) do it now!
 3. Open Command Palette `Shift + Cmd + P` and type `Install Packages`
 4. Search for `Seti_UI` and hit Enter
-5. If it doesn't itself go to `Sublime Text` > `Preferences` > `Color Scheme` > `Seti_UI` > `Scheme` and select Seti
+5. If it doesn't activate itself go to `Sublime Text` > `Preferences` > `Color Scheme` > `Seti_UI` > `Scheme` and select Seti
 6. Done
 
 
-### Atom
+### Atom (by [jesseweed](https://atom.io/themes/seti-ui))
 
 1. Open Atom
 2. Go to `Preferences` > `Package Control`
@@ -33,6 +36,11 @@ Follow these steps to get a whole Seti development look:
 5. Done
 
 ## Terminal Theme
+1. Open ~/.bash_profile or create it otherwise
+2. Copy content from [.bash_profile](https://github.com/Dangoo/seti-ui-pref/blob/master/.bash_profile)
+3. Save
+4. Restart terminal
+
 ### Terminal.app
 
 1. Checkout `seti.terminal`
